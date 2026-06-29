@@ -3,7 +3,7 @@
 **Project:** TROVIX  
 **Module:** Indexing Engine  
 **Version:** 1.0  
-**Author:** Pari (Indexing Lead)
+**Author:** Paridhi Sharma (Indexing Lead)
 
 ---
 

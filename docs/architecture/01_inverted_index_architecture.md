@@ -3,7 +3,7 @@
 **Project:** TROVIX  
 **Module:** Search Engine Core  
 **Version:** 1.0  
-**Author:** Pari (Indexing Lead)
+**Author:** Paridhi Sharma (Indexing Lead)
 
 ---
 
